@@ -1,10 +1,10 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import BotsPage from "./BotsPage";
 
 function App() {
   return (
     <div className="App">
-      <h1>Yooh</h1>
+      <BotsPage />
     </div>
   );
 }
